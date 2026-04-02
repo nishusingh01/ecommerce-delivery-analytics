@@ -70,6 +70,13 @@ Example:
 
 ---
 
+
+## preview
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fce50ceb-97a4-42b5-8afa-c75f0be8b83d" />
+
+
+
 ## 🙋‍♂️ Author
 
 Your Name
